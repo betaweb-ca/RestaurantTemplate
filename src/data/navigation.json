@@ -1,0 +1,14 @@
+{
+  "links": [
+    { "id": "home", "label": "Home", "path": "/", "type": "route" },
+    { "id": "menu", "label": "Menu", "path": "/menu", "type": "route" },
+    { "id": "about", "label": "About", "path": "#about", "type": "hash" },
+    { "id": "gallery", "label": "Gallery", "path": "#gallery", "type": "hash" },
+    { "id": "contact", "label": "Contact", "path": "#contact", "type": "hash" }
+  ],
+  "headerCta": {
+    "labelKey": "reserveTable",
+    "action": "reserve"
+  },
+  "footerQuickLinksTitle": "Quick Links"
+}

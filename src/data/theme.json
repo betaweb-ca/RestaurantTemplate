@@ -1,0 +1,41 @@
+{
+  "colors": {
+    "background": "#fbf6ee",
+    "foreground": "#2a1f1a",
+    "card": "#ffffff",
+    "cardForeground": "#2a1f1a",
+    "primary": "#2a1f1a",
+    "primaryForeground": "#fbf6ee",
+    "secondary": "#f3ebdd",
+    "secondaryForeground": "#2a1f1a",
+    "muted": "#efe6d6",
+    "mutedForeground": "#6b5a4e",
+    "accent": "#c2410c",
+    "accentForeground": "#ffffff",
+    "destructive": "#b91c1c",
+    "border": "rgba(42, 31, 26, 0.12)",
+    "mapGradientStart": "#efe6d6",
+    "mapGradientEnd": "#d6c8b3"
+  },
+  "fonts": {
+    "sans": "\"Inter\", ui-sans-serif, system-ui, -apple-system, sans-serif",
+    "display": "\"Playfair Display\", ui-serif, Georgia, serif"
+  },
+  "dietBadges": {
+    "veg": { "label": "Vegetarian", "background": "#166534", "color": "#ffffff" },
+    "spicy": { "label": "Spicy", "background": "#b91c1c", "color": "#ffffff" },
+    "gf": { "label": "Gluten-Free", "background": "#92400e", "color": "#ffffff" }
+  },
+  "buttons": {
+    "viewMenu": "View Menu",
+    "viewFullMenu": "View Full Menu",
+    "reserveTable": "Reserve a Table",
+    "orderNow": "Order Now",
+    "orderOnline": "Order Online",
+    "orderThis": "Order This",
+    "reserveDineIn": "Reserve to dine in",
+    "startOrder": "Start Order",
+    "bookTable": "Book a Table",
+    "moreAboutUs": "More about us"
+  }
+}

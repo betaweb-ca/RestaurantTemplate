@@ -1,0 +1,103 @@
+{
+  "hero": {
+    "eyebrow": "Local · Seasonal · Made by hand",
+    "headline": "A warm table in the heart of the neighborhood.",
+    "subheadline": "Honest, seasonal cooking with ingredients from local farms. Signature dishes, easy classics, and a welcoming room that feels like home.",
+    "image": "/images/hero.jpg",
+    "imageFallback": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1400",
+    "primaryCta": { "labelKey": "viewMenu", "path": "/menu" },
+    "secondaryCta": { "labelKey": "reserveTable", "action": "reserve" },
+    "special": {
+      "eyebrow": "Tonight's Special",
+      "title": "Cast-Iron Roast Salmon",
+      "subtitle": "with salsa verde"
+    },
+    "socialProof": {
+      "rating": "4.9 ★",
+      "text": "from 1,200+ neighbors",
+      "avatarCount": 3
+    }
+  },
+  "highlights": [
+    { "icon": "leaf", "label": "Fresh Ingredients" },
+    { "icon": "shopping-bag", "label": "Dine-In & Takeout" },
+    { "icon": "heart", "label": "Local Favorite" },
+    { "icon": "users", "label": "Family Friendly" }
+  ],
+  "featuredDishes": {
+    "eyebrow": "What we're known for",
+    "title": "Signature Dishes",
+    "subtitle": "Crowd favorites and chef's picks, each made fresh to order.",
+    "items": [
+      {
+        "name": "Cast-Iron Roast Salmon",
+        "description": "Wild salmon, charred lemon, salsa verde, heirloom tomato.",
+        "price": "$24",
+        "badge": "Chef's Pick",
+        "image": "/images/dish-salmon.jpg",
+        "imageFallback": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      {
+        "name": "Herb Butter Steak",
+        "description": "Dry-aged sirloin, garlic confit, smashed fingerlings.",
+        "price": "$32",
+        "badge": "Popular",
+        "image": "/images/dish-steak.jpg",
+        "imageFallback": "https://images.unsplash.com/photo-1663530761401-15eefb544889?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      {
+        "name": "Harvest Grain Bowl",
+        "description": "Farro, roasted squash, kale, citrus, toasted seeds.",
+        "price": "$16",
+        "image": "/images/dish-bowl.jpg",
+        "imageFallback": "https://images.unsplash.com/photo-1572715376701-98568319fd0b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      {
+        "name": "Wood-Fired Flatbread",
+        "description": "Stone-milled crust, mozzarella, basil, garden tomato.",
+        "price": "$14",
+        "image": "/images/dish-flatbread.jpg",
+        "imageFallback": "https://images.unsplash.com/photo-1514326640560-7d063ef2aed5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Our Story",
+    "title": "A neighborhood kitchen with a long table.",
+    "paragraphs": [
+      "Harvest Table started as a Sunday supper between friends. Today we serve seasonal menus built around the farmers, fishermen, and makers we know by name — in a room that's still meant for lingering.",
+      "Come hungry, stay a while, and leave with leftovers."
+    ],
+    "image": "/images/about.jpg",
+    "imageFallback": "https://images.unsplash.com/photo-1709548145082-04d0cde481d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1200",
+    "cta": { "labelKey": "moreAboutUs", "path": "#about" }
+  },
+  "menuPreview": {
+    "eyebrow": "A taste of what's on",
+    "title": "From the Menu",
+    "subtitle": "A small preview — see the full list for everything we're serving today.",
+    "categories": ["Starters", "Mains", "Desserts", "Drinks"],
+    "itemsPerCategory": 3,
+    "cta": { "labelKey": "viewFullMenu", "path": "/menu" }
+  },
+  "gallery": {
+    "eyebrow": "Atmosphere",
+    "title": "Inside the room",
+    "images": [
+      { "src": "/images/gallery-1.jpg", "fallback": "https://images.unsplash.com/photo-1709548145082-04d0cde481d4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800", "featured": true },
+      { "src": "/images/gallery-2.jpg", "fallback": "https://images.unsplash.com/photo-1629272040444-2f7553ec7466?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800" },
+      { "src": "/images/gallery-3.jpg", "fallback": "https://images.unsplash.com/photo-1728501650832-57bafbf10a37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800" },
+      { "src": "/images/gallery-4.jpg", "fallback": "https://images.unsplash.com/photo-1564759296729-771e78c26df7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800" },
+      { "src": "/images/gallery-5.jpg", "fallback": "https://images.unsplash.com/photo-1622140739492-f82f386260b5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800" },
+      { "src": "/images/gallery-6.jpg", "fallback": "https://images.unsplash.com/photo-1748674755181-cec5638e3c8f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=800" }
+    ]
+  },
+  "ctaBanner": {
+    "eyebrow": "Ready to taste it?",
+    "title": "Order online or reserve your table",
+    "subtitle": "Pickup, delivery, or dine-in — we'll have something warm and delicious waiting for you.",
+    "primaryCta": { "labelKey": "orderOnline", "action": "order" },
+    "secondaryCta": { "labelKey": "reserveTable", "action": "reserve" },
+    "phonePrefix": "Or call"
+  }
+}

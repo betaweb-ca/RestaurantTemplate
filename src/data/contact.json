@@ -1,0 +1,14 @@
+{
+  "sectionTitle": "Find us",
+  "sectionHeading": "Come say hello",
+  "labels": {
+    "address": "Address",
+    "phone": "Phone",
+    "hours": "Hours"
+  },
+  "map": {
+    "placeholderTitle": "Map placeholder",
+    "placeholderSubtitle": "Drop your map embed here",
+    "embedUrl": ""
+  }
+}

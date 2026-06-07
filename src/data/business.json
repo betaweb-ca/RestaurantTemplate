@@ -1,0 +1,23 @@
+{
+  "name": "Harvest Table",
+  "tagline": "A neighborhood kitchen serving honest, seasonal food made with care.",
+  "description": "Honest, seasonal cooking with ingredients from local farms. Signature dishes, easy classics, and a welcoming room that feels like home.",
+  "phone": "(555) 123-4567",
+  "email": "hello@harvesttable.com",
+  "address": {
+    "line1": "248 Linden Street",
+    "line2": "Springfield, OR 97477"
+  },
+  "hours": [
+    { "days": "Mon–Thu", "time": "11a–9p" },
+    { "days": "Fri–Sat", "time": "11a–10p" },
+    { "days": "Sun", "time": "10a–8p" }
+  ],
+  "social": [
+    { "platform": "instagram", "url": "#", "label": "Instagram" },
+    { "platform": "facebook", "url": "#", "label": "Facebook" },
+    { "platform": "twitter", "url": "#", "label": "Twitter" }
+  ],
+  "copyright": "© 2026 Harvest Table Restaurant. All rights reserved.",
+  "footerLegal": "Crafted with care · Privacy · Terms"
+}
